@@ -1,0 +1,5 @@
+2026-05-09 02:06:49 - trading_bot - INFO - __init__:29 - OrderManager initialized
+2026-05-09 02:06:49 - trading_bot - INFO - validate_order_params:248 - Order parameters validated: BTCUSDT BUY MARKET 0.00100000 
+2026-05-09 02:06:49 - trading_bot - INFO - place_order:10 - Fake order accepted: BTCUSDT BUY MARKET qty=0.00100000
+2026-05-09 02:06:49 - trading_bot - INFO - validate_order_params:248 - Order parameters validated: ETHUSDT SELL LIMIT 1.00000000 @2500.00000000
+2026-05-09 02:06:49 - trading_bot - INFO - place_order:10 - Fake order accepted: ETHUSDT SELL LIMIT qty=1.00000000
