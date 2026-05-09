@@ -49,7 +49,7 @@ cd Simplified-Trading-Bot
 2. Change into the project directory:
 
 ```bash
-cd trading_bot/bot
+cd trading_bot
 ```
 
 3. Install dependencies:
